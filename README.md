@@ -31,4 +31,5 @@ Power BI interactive dashboard showing sales trends and product performance.
 - Dashboard Screenshot
 - ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-03-10 201504.png)
+<img width="1909" height="992" alt="Screenshot 2026-03-10 201504" src="https://github.com/user-attachments/assets/f318f932-71ee-49a1-bc60-2b60e0d15146" />
+
